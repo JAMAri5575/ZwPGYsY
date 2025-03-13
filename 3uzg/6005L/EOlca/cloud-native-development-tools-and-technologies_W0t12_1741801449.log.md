@@ -18,7 +18,6 @@ EXPOSE 80
 2. **Build the Docker Image**: Execute the following command in your terminal, substituting `my-lamp-app` with your preferred name for the Docker image:
     ```
     docker build -t my-lamp-app .
-    ```
 
 3. **Run Your Container**: Start your container with the command below, which maps the container's port 80 to port 80 on your host, allowing you to access the application through `http://localhost`:
     ```
