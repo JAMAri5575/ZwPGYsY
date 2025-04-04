@@ -66,7 +66,6 @@ irrevocably and unconditionally waives, abandons, and surrenders all of
 Affirmer's Copyright and Related Rights and associated claims and causes
 of action, whether now known or unknown (including existing as well as
 future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
 treaty (including future time extensions), (iii) in any current or future
 medium and for any number of copies, and (iv) for any purpose whatsoever,
 including without limitation commercial, advertising or promotional
